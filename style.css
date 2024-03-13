@@ -1,0 +1,27 @@
+ /* ORIGINAL TASK PUPILS STARTED WITH
+Full credit to code.org for task */
+
+img {
+  width: 200px;
+  height: 200px;
+}
+p{
+  color:lightcoral
+}
+h1{
+  color:lightblue
+}
+h2{
+  color:lightgreen
+}
+h4{
+  color:lightsteelblue
+}
+body{
+  background-color:teal ;
+}
+
+}
+.wave:hover{
+  height:500px;
+}
